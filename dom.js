@@ -142,7 +142,7 @@ function searchBook() {
   const moveBook = document.querySelectorAll(".move");
 
   for (move of moveBook) {
-    if (inputSearch !== move.innerText) {
+    if (!move.innerText.includes(inputSearch)) {
       console.log(move.innerText);
       move.parentElement.remove();
     }

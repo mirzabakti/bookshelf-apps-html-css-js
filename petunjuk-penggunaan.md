@@ -30,7 +30,7 @@
 ## Menggunakan fitur "Cari Buku"
 
 <ol>
-<li>Tulis judul buku yang ingin dicari pada kolom pencarian (Judul buku yang ditulis harus sama dan lengkap sesuai buku yang ingin dicari.Case sensitif, perhatikan penulisan huruf kapital dan juga spasi).
+<li>Tulis judul buku yang ingin dicari pada kolom pencarian.
 <li>Klik tombol "Cari".
-<li>Jika ingin mencari buku lainnya harap klik "refresh" terlebih dahulu
+<li>Jika ingin mencari buku lainnya harap klik "refresh" terlebih dahulu.
 </ol>
