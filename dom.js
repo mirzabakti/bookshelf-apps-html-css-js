@@ -143,8 +143,9 @@ function searchBook() {
 
   for (move of moveBook) {
     if (!move.innerText.includes(inputSearch)) {
-      console.log(move.innerText);
-      move.parentElement.remove();
+      move.parentElement.style.display = "none";
+    } else {
+      move.parentElement.style.display = "block";
     }
   }
 }
